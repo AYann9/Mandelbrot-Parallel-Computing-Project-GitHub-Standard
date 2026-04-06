@@ -1,0 +1,1 @@
+# Mandelbrot-Parallel-Computing-Project-GitHub-Standard
